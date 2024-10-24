@@ -8,8 +8,7 @@ with open("README.md", "r", encoding="utf-8") as readme:
 
 
 setup(
-    author="Sean Breckenridge",
-    author_email="seanbrecke@gmail.com",
+    author="purarue",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: End Users/Desktop",
@@ -32,7 +31,7 @@ setup(
     entry_points={
         "console_scripts": ["cube-scramble-cli = cube_scramble_cli.__main__:main"]
     },
-    url="https://github.com/seanbreckenridge/cube-scramble-cli",
+    url="https://github.com/purarue/cube-scramble-cli",
     version="0.4.7",
     zip_safe=False,
 )

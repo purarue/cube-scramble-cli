@@ -4,7 +4,7 @@
 
 A CLI for [pyTwistyScrambler](https://github.com/euphwes/pyTwistyScrambler), to generate random states for Rubik's cubes/twisty puzzles.
 
-<img src="https://raw.githubusercontent.com/seanbreckenridge/cube-scramble-cli/master/.github/demo.gif" alt="cube-scramble-cli demo gif">
+<img src="https://raw.githubusercontent.com/purarue/cube-scramble-cli/master/.github/demo.gif" alt="cube-scramble-cli demo gif">
 
 #### Installation
 
