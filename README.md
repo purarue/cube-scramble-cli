@@ -8,7 +8,7 @@ A CLI for [pyTwistyScrambler](https://github.com/euphwes/pyTwistyScrambler), to 
 
 #### Installation
 
-Requires python3.10+
+Requires `python3.10+`, `java`
 
 `$ pip3 install cube-scramble-cli`
 

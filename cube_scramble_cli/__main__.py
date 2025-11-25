@@ -214,7 +214,7 @@ def main(print_symbols: bool, hide_stopwatch: bool, args: Sequence[str]) -> None
             click.echo(scramble_func())
         else:
             for n in range(count):
-                click.echo(f"{n+1}. {scramble_func()}")
+                click.echo(f"{n + 1}. {scramble_func()}")
 
 
 if __name__ == "__main__":
